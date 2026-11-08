@@ -1,0 +1,65 @@
+Enqueued burst: pid=904, time=10 ms, block=0 ms, nice=0, vpns=[1]
+Enqueued burst: pid=904, time=10 ms, block=0 ms, nice=0, vpns=[2]
+Enqueued burst: pid=904, time=10 ms, block=0 ms, nice=0, vpns=[3]
+Enqueued burst: pid=904, time=10 ms, block=0 ms, nice=0, vpns=[1]
+Enqueued burst: pid=904, time=10 ms, block=0 ms, nice=0, vpns=[4]
+Enqueued burst: pid=904, time=10 ms, block=0 ms, nice=0, vpns=[1]
+Enqueued burst: pid=904, time=10 ms, block=0 ms, nice=0, vpns=[5]
+Enqueued burst: pid=904, time=10 ms, block=0 ms, nice=0, vpns=[1]
+Enqueued burst: pid=904, time=10 ms, block=0 ms, nice=0, vpns=[2]
+Enqueued burst: pid=904, time=10 ms, block=0 ms, nice=0, vpns=[1]
+Enqueued burst: pid=904, time=10 ms, block=0 ms, nice=0, vpns=[3]
+Enqueued burst: pid=904, time=10 ms, block=0 ms, nice=0, vpns=[1]
+Enqueued burst: pid=904, time=10 ms, block=0 ms, nice=0, vpns=[4]
+Enqueued burst: pid=904, time=10 ms, block=0 ms, nice=0, vpns=[1]
+Enqueued burst: pid=904, time=10 ms, block=0 ms, nice=0, vpns=[5]
+Enqueued burst: pid=904, time=10 ms, block=0 ms, nice=0, vpns=[1]
+Application localidade (PID 904) finished at time 359 ms, Elapsed: 0.328 seconds, CPU: 0.160 seconds, BLOCKED: 0.000 seconds
+[/tmp/projeto/application.c:55] Application localidade (PID 904) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application localidade (PID 904) at time 31 ms
+
+[/tmp/projeto/application.c:55] Application localidade (PID 904) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application localidade (PID 904) at time 52 ms
+
+[/tmp/projeto/application.c:55] Application localidade (PID 904) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application localidade (PID 904) at time 73 ms
+
+[/tmp/projeto/application.c:55] Application localidade (PID 904) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application localidade (PID 904) at time 94 ms
+
+[/tmp/projeto/application.c:55] Application localidade (PID 904) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application localidade (PID 904) at time 115 ms
+
+[/tmp/projeto/application.c:55] Application localidade (PID 904) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application localidade (PID 904) at time 137 ms
+
+[/tmp/projeto/application.c:55] Application localidade (PID 904) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application localidade (PID 904) at time 158 ms
+
+[/tmp/projeto/application.c:55] Application localidade (PID 904) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application localidade (PID 904) at time 179 ms
+
+[/tmp/projeto/application.c:55] Application localidade (PID 904) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application localidade (PID 904) at time 201 ms
+
+[/tmp/projeto/application.c:55] Application localidade (PID 904) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application localidade (PID 904) at time 222 ms
+
+[/tmp/projeto/application.c:55] Application localidade (PID 904) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application localidade (PID 904) at time 243 ms
+
+[/tmp/projeto/application.c:55] Application localidade (PID 904) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application localidade (PID 904) at time 265 ms
+
+[/tmp/projeto/application.c:55] Application localidade (PID 904) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application localidade (PID 904) at time 285 ms
+
+[/tmp/projeto/application.c:55] Application localidade (PID 904) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application localidade (PID 904) at time 306 ms
+
+[/tmp/projeto/application.c:55] Application localidade (PID 904) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application localidade (PID 904) at time 327 ms
+
+[/tmp/projeto/application.c:55] Application localidade (PID 904) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application localidade (PID 904) at time 348 ms
+

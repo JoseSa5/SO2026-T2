@@ -1,0 +1,65 @@
+[/tmp/projeto/application.c:55] Application localidade (PID 614) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application localidade (PID 614) at time 91 ms
+
+[/tmp/projeto/application.c:55] Application localidade (PID 614) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application localidade (PID 614) at time 112 ms
+
+[/tmp/projeto/application.c:55] Application localidade (PID 614) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application localidade (PID 614) at time 132 ms
+
+[/tmp/projeto/application.c:55] Application localidade (PID 614) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application localidade (PID 614) at time 153 ms
+
+[/tmp/projeto/application.c:55] Application localidade (PID 614) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application localidade (PID 614) at time 174 ms
+
+[/tmp/projeto/application.c:55] Application localidade (PID 614) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application localidade (PID 614) at time 194 ms
+
+[/tmp/projeto/application.c:55] Application localidade (PID 614) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application localidade (PID 614) at time 215 ms
+
+[/tmp/projeto/application.c:55] Application localidade (PID 614) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application localidade (PID 614) at time 236 ms
+
+[/tmp/projeto/application.c:55] Application localidade (PID 614) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application localidade (PID 614) at time 257 ms
+
+[/tmp/projeto/application.c:55] Application localidade (PID 614) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application localidade (PID 614) at time 277 ms
+
+[/tmp/projeto/application.c:55] Application localidade (PID 614) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application localidade (PID 614) at time 297 ms
+
+[/tmp/projeto/application.c:55] Application localidade (PID 614) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application localidade (PID 614) at time 319 ms
+
+[/tmp/projeto/application.c:55] Application localidade (PID 614) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application localidade (PID 614) at time 340 ms
+
+[/tmp/projeto/application.c:55] Application localidade (PID 614) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application localidade (PID 614) at time 361 ms
+
+[/tmp/projeto/application.c:55] Application localidade (PID 614) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application localidade (PID 614) at time 382 ms
+
+[/tmp/projeto/application.c:55] Application localidade (PID 614) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application localidade (PID 614) at time 403 ms
+
+Enqueued burst: pid=614, time=10 ms, block=0 ms, nice=0, vpns=[1]
+Enqueued burst: pid=614, time=10 ms, block=0 ms, nice=0, vpns=[2]
+Enqueued burst: pid=614, time=10 ms, block=0 ms, nice=0, vpns=[3]
+Enqueued burst: pid=614, time=10 ms, block=0 ms, nice=0, vpns=[1]
+Enqueued burst: pid=614, time=10 ms, block=0 ms, nice=0, vpns=[4]
+Enqueued burst: pid=614, time=10 ms, block=0 ms, nice=0, vpns=[1]
+Enqueued burst: pid=614, time=10 ms, block=0 ms, nice=0, vpns=[5]
+Enqueued burst: pid=614, time=10 ms, block=0 ms, nice=0, vpns=[1]
+Enqueued burst: pid=614, time=10 ms, block=0 ms, nice=0, vpns=[2]
+Enqueued burst: pid=614, time=10 ms, block=0 ms, nice=0, vpns=[1]
+Enqueued burst: pid=614, time=10 ms, block=0 ms, nice=0, vpns=[3]
+Enqueued burst: pid=614, time=10 ms, block=0 ms, nice=0, vpns=[1]
+Enqueued burst: pid=614, time=10 ms, block=0 ms, nice=0, vpns=[4]
+Enqueued burst: pid=614, time=10 ms, block=0 ms, nice=0, vpns=[1]
+Enqueued burst: pid=614, time=10 ms, block=0 ms, nice=0, vpns=[5]
+Enqueued burst: pid=614, time=10 ms, block=0 ms, nice=0, vpns=[1]
+Application localidade (PID 614) finished at time 413 ms, Elapsed: 0.322 seconds, CPU: 0.160 seconds, BLOCKED: 0.000 seconds

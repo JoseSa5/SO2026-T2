@@ -1,0 +1,15 @@
+[/tmp/projeto/application.c:55] Application basico (PID 786) sent RUN request for 300 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application basico (PID 786) at time 63 ms
+
+[/tmp/projeto/application.c:55] Application basico (PID 786) sent BLOCK request for 50 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application basico (PID 786) at time 388 ms
+
+[/tmp/projeto/application.c:55] Application basico (PID 786) sent RUN request for 300 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application basico (PID 786) at time 442 ms
+
+[/tmp/projeto/application.c:55] Application basico (PID 786) sent BLOCK request for 50 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application basico (PID 786) at time 764 ms
+
+Enqueued burst: pid=786, time=300 ms, block=50 ms, nice=0, vpns=[1, -2, 3, -4, 5, 6]
+Enqueued burst: pid=786, time=300 ms, block=50 ms, nice=0, vpns=[7, -8, 9, 10, -11, 12]
+Application basico (PID 786) finished at time 805 ms, Elapsed: 0.742 seconds, CPU: 0.600 seconds, BLOCKED: 0.100 seconds

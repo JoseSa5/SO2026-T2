@@ -1,0 +1,41 @@
+Enqueued burst: pid=902, time=10 ms, block=0 ms, nice=0, vpns=[1]
+Enqueued burst: pid=902, time=10 ms, block=0 ms, nice=0, vpns=[2]
+Enqueued burst: pid=902, time=10 ms, block=0 ms, nice=0, vpns=[3]
+Enqueued burst: pid=902, time=10 ms, block=0 ms, nice=0, vpns=[4]
+Enqueued burst: pid=902, time=10 ms, block=0 ms, nice=0, vpns=[5]
+Enqueued burst: pid=902, time=10 ms, block=0 ms, nice=0, vpns=[1]
+Enqueued burst: pid=902, time=10 ms, block=0 ms, nice=0, vpns=[2]
+Enqueued burst: pid=902, time=10 ms, block=0 ms, nice=0, vpns=[3]
+Enqueued burst: pid=902, time=10 ms, block=0 ms, nice=0, vpns=[4]
+Enqueued burst: pid=902, time=10 ms, block=0 ms, nice=0, vpns=[5]
+Application circular (PID 902) finished at time 230 ms, Elapsed: 0.198 seconds, CPU: 0.100 seconds, BLOCKED: 0.000 seconds
+[/tmp/projeto/application.c:55] Application circular (PID 902) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application circular (PID 902) at time 32 ms
+
+[/tmp/projeto/application.c:55] Application circular (PID 902) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application circular (PID 902) at time 53 ms
+
+[/tmp/projeto/application.c:55] Application circular (PID 902) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application circular (PID 902) at time 73 ms
+
+[/tmp/projeto/application.c:55] Application circular (PID 902) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application circular (PID 902) at time 95 ms
+
+[/tmp/projeto/application.c:55] Application circular (PID 902) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application circular (PID 902) at time 115 ms
+
+[/tmp/projeto/application.c:55] Application circular (PID 902) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application circular (PID 902) at time 136 ms
+
+[/tmp/projeto/application.c:55] Application circular (PID 902) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application circular (PID 902) at time 157 ms
+
+[/tmp/projeto/application.c:55] Application circular (PID 902) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application circular (PID 902) at time 177 ms
+
+[/tmp/projeto/application.c:55] Application circular (PID 902) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application circular (PID 902) at time 198 ms
+
+[/tmp/projeto/application.c:55] Application circular (PID 902) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application circular (PID 902) at time 220 ms
+

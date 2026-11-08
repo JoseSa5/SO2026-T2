@@ -1,0 +1,49 @@
+Enqueued burst: pid=880, time=10 ms, block=0 ms, nice=0, vpns=[-1]
+Enqueued burst: pid=880, time=10 ms, block=0 ms, nice=0, vpns=[-2]
+Enqueued burst: pid=880, time=10 ms, block=0 ms, nice=0, vpns=[3]
+Enqueued burst: pid=880, time=10 ms, block=0 ms, nice=0, vpns=[4]
+Enqueued burst: pid=880, time=10 ms, block=0 ms, nice=0, vpns=[1]
+Enqueued burst: pid=880, time=10 ms, block=0 ms, nice=0, vpns=[2]
+Enqueued burst: pid=880, time=10 ms, block=0 ms, nice=0, vpns=[-1]
+Enqueued burst: pid=880, time=10 ms, block=0 ms, nice=0, vpns=[5]
+Enqueued burst: pid=880, time=10 ms, block=0 ms, nice=0, vpns=[1]
+Enqueued burst: pid=880, time=10 ms, block=0 ms, nice=0, vpns=[2]
+Enqueued burst: pid=880, time=10 ms, block=0 ms, nice=0, vpns=[3]
+Enqueued burst: pid=880, time=10 ms, block=0 ms, nice=0, vpns=[4]
+Application escritas (PID 880) finished at time 276 ms, Elapsed: 0.245 seconds, CPU: 0.120 seconds, BLOCKED: 0.000 seconds
+[/tmp/projeto/application.c:55] Application escritas (PID 880) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application escritas (PID 880) at time 31 ms
+
+[/tmp/projeto/application.c:55] Application escritas (PID 880) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application escritas (PID 880) at time 52 ms
+
+[/tmp/projeto/application.c:55] Application escritas (PID 880) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application escritas (PID 880) at time 73 ms
+
+[/tmp/projeto/application.c:55] Application escritas (PID 880) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application escritas (PID 880) at time 94 ms
+
+[/tmp/projeto/application.c:55] Application escritas (PID 880) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application escritas (PID 880) at time 116 ms
+
+[/tmp/projeto/application.c:55] Application escritas (PID 880) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application escritas (PID 880) at time 137 ms
+
+[/tmp/projeto/application.c:55] Application escritas (PID 880) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application escritas (PID 880) at time 159 ms
+
+[/tmp/projeto/application.c:55] Application escritas (PID 880) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application escritas (PID 880) at time 181 ms
+
+[/tmp/projeto/application.c:55] Application escritas (PID 880) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application escritas (PID 880) at time 202 ms
+
+[/tmp/projeto/application.c:55] Application escritas (PID 880) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application escritas (PID 880) at time 224 ms
+
+[/tmp/projeto/application.c:55] Application escritas (PID 880) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application escritas (PID 880) at time 245 ms
+
+[/tmp/projeto/application.c:55] Application escritas (PID 880) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application escritas (PID 880) at time 266 ms
+
