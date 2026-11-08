@@ -1,0 +1,19 @@
+[/tmp/projeto/queue.c:215] [Scheduler] New client connected: fd=4
+[/tmp/projeto/queue.c:234] Connection closed by client (fd=4)
+OSSIM: scheduler=FIFO, eviction=RANDOM, vpages=8, pframes=3, threshold=1
+Scheduler server listening on /tmp/scheduler.sock...
+[VM] access=1 pid=852 vpn=1 FAULT
+[VM] access=2 pid=852 vpn=2 FAULT
+[VM] access=3 pid=852 vpn=3 FAULT
+[VM] access=4 pid=852 vpn=1 HIT
+[VM] access=5 pid=852 vpn=2 HIT
+[VM] access=6 pid=852 vpn=3 HIT
+[VM] access=7 pid=852 vpn=1 HIT
+[VM] access=8 pid=852 vpn=2 HIT
+[VM] access=9 pid=852 vpn=3 HIT
+Process 852 terminated: freed 3 pframes from RAM, 0 vpages from swap
+RANDOM stats: accesses=9 faults=3 swap-in=0 swap-out=0 fault-rate=0.333
+
+[Signal] Caught signal 15 — stopping scheduler...
+[Scheduler] Cleaning up and shutting down...
+[Scheduler] Shutdown complete.

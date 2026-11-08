@@ -1,0 +1,33 @@
+[/tmp/projeto/queue.c:215] [Scheduler] New client connected: fd=4
+[/tmp/projeto/queue.c:234] Connection closed by client (fd=4)
+OSSIM: scheduler=FIFO, eviction=LRU, vpages=8, pframes=3, threshold=1
+Scheduler server listening on /tmp/scheduler.sock...
+[VM] access=1 pid=884 vpn=1 FAULT
+[VM] access=2 pid=884 vpn=2 FAULT
+[VM] access=3 pid=884 vpn=3 FAULT
+[VM] access=4 pid=884 vpn=4 FAULT
+[VM] evict algo=LRU pid=884 vpn=1 pfn=0 R=1 D=1
+[SWAP] swap_out pid=884 vpn=1
+[VM] access=5 pid=884 vpn=1 FAULT
+[VM] evict algo=LRU pid=884 vpn=2 pfn=1 R=1 D=1
+[SWAP] swap_out pid=884 vpn=2
+[SWAP] swap_in pid=884 vpn=1
+[VM] access=6 pid=884 vpn=2 FAULT
+[VM] evict algo=LRU pid=884 vpn=3 pfn=2 R=1 D=0
+[SWAP] swap_in pid=884 vpn=2
+[VM] access=7 pid=884 vpn=1 HIT
+[VM] access=8 pid=884 vpn=5 FAULT
+[VM] evict algo=LRU pid=884 vpn=4 pfn=0 R=1 D=0
+[VM] access=9 pid=884 vpn=1 HIT
+[VM] access=10 pid=884 vpn=2 HIT
+[VM] access=11 pid=884 vpn=3 FAULT
+[VM] evict algo=LRU pid=884 vpn=5 pfn=0 R=1 D=0
+[VM] access=12 pid=884 vpn=4 FAULT
+[VM] evict algo=LRU pid=884 vpn=1 pfn=1 R=1 D=1
+[SWAP] swap_out pid=884 vpn=1
+Process 884 terminated: freed 3 pframes from RAM, 2 vpages from swap
+LRU stats: accesses=12 faults=9 swap-in=2 swap-out=3 fault-rate=0.750
+
+[Signal] Caught signal 15 — stopping scheduler...
+[Scheduler] Cleaning up and shutting down...
+[Scheduler] Shutdown complete.

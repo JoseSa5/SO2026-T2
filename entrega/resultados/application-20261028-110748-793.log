@@ -1,0 +1,37 @@
+[/tmp/projeto/application.c:55] Application repeticao (PID 800) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application repeticao (PID 800) at time 61 ms
+
+[/tmp/projeto/application.c:55] Application repeticao (PID 800) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application repeticao (PID 800) at time 82 ms
+
+[/tmp/projeto/application.c:55] Application repeticao (PID 800) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application repeticao (PID 800) at time 103 ms
+
+[/tmp/projeto/application.c:55] Application repeticao (PID 800) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application repeticao (PID 800) at time 125 ms
+
+[/tmp/projeto/application.c:55] Application repeticao (PID 800) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application repeticao (PID 800) at time 146 ms
+
+[/tmp/projeto/application.c:55] Application repeticao (PID 800) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application repeticao (PID 800) at time 166 ms
+
+[/tmp/projeto/application.c:55] Application repeticao (PID 800) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application repeticao (PID 800) at time 187 ms
+
+[/tmp/projeto/application.c:55] Application repeticao (PID 800) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application repeticao (PID 800) at time 208 ms
+
+[/tmp/projeto/application.c:55] Application repeticao (PID 800) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application repeticao (PID 800) at time 229 ms
+
+Enqueued burst: pid=800, time=10 ms, block=0 ms, nice=0, vpns=[1]
+Enqueued burst: pid=800, time=10 ms, block=0 ms, nice=0, vpns=[2]
+Enqueued burst: pid=800, time=10 ms, block=0 ms, nice=0, vpns=[3]
+Enqueued burst: pid=800, time=10 ms, block=0 ms, nice=0, vpns=[1]
+Enqueued burst: pid=800, time=10 ms, block=0 ms, nice=0, vpns=[2]
+Enqueued burst: pid=800, time=10 ms, block=0 ms, nice=0, vpns=[3]
+Enqueued burst: pid=800, time=10 ms, block=0 ms, nice=0, vpns=[1]
+Enqueued burst: pid=800, time=10 ms, block=0 ms, nice=0, vpns=[2]
+Enqueued burst: pid=800, time=10 ms, block=0 ms, nice=0, vpns=[3]
+Application repeticao (PID 800) finished at time 239 ms, Elapsed: 0.178 seconds, CPU: 0.090 seconds, BLOCKED: 0.000 seconds

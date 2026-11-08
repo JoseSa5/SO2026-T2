@@ -1,0 +1,32 @@
+[/tmp/projeto/queue.c:215] [Scheduler] New client connected: fd=4
+[/tmp/projeto/queue.c:234] Connection closed by client (fd=4)
+OSSIM: scheduler=FIFO, eviction=LRU, vpages=8, pframes=3, threshold=1
+Scheduler server listening on /tmp/scheduler.sock...
+[VM] access=1 pid=870 vpn=1 FAULT
+[VM] access=2 pid=870 vpn=2 FAULT
+[VM] access=3 pid=870 vpn=3 FAULT
+[VM] access=4 pid=870 vpn=1 HIT
+[VM] access=5 pid=870 vpn=4 FAULT
+[VM] evict algo=LRU pid=870 vpn=2 pfn=1 R=1 D=0
+[VM] access=6 pid=870 vpn=1 HIT
+[VM] access=7 pid=870 vpn=5 FAULT
+[VM] evict algo=LRU pid=870 vpn=3 pfn=2 R=1 D=0
+[VM] access=8 pid=870 vpn=1 HIT
+[VM] access=9 pid=870 vpn=2 FAULT
+[VM] evict algo=LRU pid=870 vpn=4 pfn=1 R=1 D=0
+[VM] access=10 pid=870 vpn=1 HIT
+[VM] access=11 pid=870 vpn=3 FAULT
+[VM] evict algo=LRU pid=870 vpn=5 pfn=2 R=1 D=0
+[VM] access=12 pid=870 vpn=1 HIT
+[VM] access=13 pid=870 vpn=4 FAULT
+[VM] evict algo=LRU pid=870 vpn=2 pfn=1 R=1 D=0
+[VM] access=14 pid=870 vpn=1 HIT
+[VM] access=15 pid=870 vpn=5 FAULT
+[VM] evict algo=LRU pid=870 vpn=3 pfn=2 R=1 D=0
+[VM] access=16 pid=870 vpn=1 HIT
+Process 870 terminated: freed 3 pframes from RAM, 0 vpages from swap
+LRU stats: accesses=16 faults=9 swap-in=0 swap-out=0 fault-rate=0.562
+
+[Signal] Caught signal 15 — stopping scheduler...
+[Scheduler] Cleaning up and shutting down...
+[Scheduler] Shutdown complete.

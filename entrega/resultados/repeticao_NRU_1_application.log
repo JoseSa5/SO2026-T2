@@ -1,0 +1,37 @@
+Enqueued burst: pid=858, time=10 ms, block=0 ms, nice=0, vpns=[1]
+Enqueued burst: pid=858, time=10 ms, block=0 ms, nice=0, vpns=[2]
+Enqueued burst: pid=858, time=10 ms, block=0 ms, nice=0, vpns=[3]
+Enqueued burst: pid=858, time=10 ms, block=0 ms, nice=0, vpns=[1]
+Enqueued burst: pid=858, time=10 ms, block=0 ms, nice=0, vpns=[2]
+Enqueued burst: pid=858, time=10 ms, block=0 ms, nice=0, vpns=[3]
+Enqueued burst: pid=858, time=10 ms, block=0 ms, nice=0, vpns=[1]
+Enqueued burst: pid=858, time=10 ms, block=0 ms, nice=0, vpns=[2]
+Enqueued burst: pid=858, time=10 ms, block=0 ms, nice=0, vpns=[3]
+Application repeticao (PID 858) finished at time 212 ms, Elapsed: 0.181 seconds, CPU: 0.090 seconds, BLOCKED: 0.000 seconds
+[/tmp/projeto/application.c:55] Application repeticao (PID 858) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application repeticao (PID 858) at time 31 ms
+
+[/tmp/projeto/application.c:55] Application repeticao (PID 858) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application repeticao (PID 858) at time 52 ms
+
+[/tmp/projeto/application.c:55] Application repeticao (PID 858) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application repeticao (PID 858) at time 73 ms
+
+[/tmp/projeto/application.c:55] Application repeticao (PID 858) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application repeticao (PID 858) at time 95 ms
+
+[/tmp/projeto/application.c:55] Application repeticao (PID 858) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application repeticao (PID 858) at time 115 ms
+
+[/tmp/projeto/application.c:55] Application repeticao (PID 858) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application repeticao (PID 858) at time 137 ms
+
+[/tmp/projeto/application.c:55] Application repeticao (PID 858) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application repeticao (PID 858) at time 159 ms
+
+[/tmp/projeto/application.c:55] Application repeticao (PID 858) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application repeticao (PID 858) at time 180 ms
+
+[/tmp/projeto/application.c:55] Application repeticao (PID 858) sent RUN request for 10 ms
+[/tmp/projeto/application.c:69] Received ACK from scheduler for application repeticao (PID 858) at time 201 ms
+
